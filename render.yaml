@@ -1,0 +1,5 @@
+services:
+  - type: web
+    name: thuctap-laravel
+    env: docker
+    rootDir: quan_ly_lop
