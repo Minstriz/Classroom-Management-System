@@ -1,6 +1,6 @@
 Overview
 
-This application is a dynamic web application designed to enhance the educational experience for both students and instructors. Inspired by the functionality of Google Calendar, this platform allows users to seamlessly join classes, access important announcements from instructors, participate in quizzes, and more. Built with Blade, PHP, and MySQL, ClassConnect provides a robust and user-friendly interface for managing classroom activities.
+This application is a dynamic web application designed to enhance the educational experience for both students and instructors. Inspired by the functionality of Google Class, this platform allows users to seamlessly join classes, access important announcements from instructors, participate in quizzes, and more. Built with Blade, PHP, and MySQL, ClassConnect provides a robust and user-friendly interface for managing classroom activities.
 
 Key Features
 
